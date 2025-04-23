@@ -3,7 +3,7 @@
 ---
 ⚡ A passionate Frontend Developer :) <br>
 🌱 I’m currently learning **Java** and **C** <br>
-🔭 I’m currently working on a Maps Application
+🔭 I’m currently working on game-making skills
 
 <p> I'm a university student, learning all sorts of new stuff every day.</p>
 ---
