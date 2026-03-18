@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sangeeta!</h1>
 
 ---
-⚡ A passionate Frontend Developer :) <br>
+⚡ A passionate Frontend Developer <br>
 🌱 I’m currently learning **Java** and **C** <br>
 🔭 I’m currently working on game-making skills
 
-<p> I'm a university student, learning all sorts of new stuff every day.</p>
----
+<p> I'm a final year university student, learning all sorts of new stuff every day.</p>
 
 <h3 align="left">💬 Connect with me:</h3>
 <!-- Add your social links here -->
